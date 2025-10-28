@@ -3,7 +3,7 @@
 <img src="https://allthings.how/content/images/2025/02/ATH-Featured-Image--43--df16f41c2d21c1ba.png" alt="How to fix 'Printer in error state' in Windows"/>
 </p>
 
-<h1>Real World Printer Issues and Their Fixes</h1>
+<h1>Real World Printer Issues and How to Resolve Them</h1>
 This is a quick and simple repository to reference whenever you come across printer issues in the real world. It will cover the most common issues you may encounter in classrooms, offices, workplaces, etc.
 
 <h2>🧰Printer not Turning On or Responding🧰</h2>
