@@ -8,7 +8,7 @@ This is a quick and simple repository to reference whenever you come across prin
 
 <h2>⚡️Printer not Turning On or Responding⚡️</h2>
 
-Possible Causes or Root Issues: Power Issues, faulty cables, firmware errors, internal hardware failure, or network connectivity issues.    
+**Possible Causes or Root Issues:** Power Issues, faulty cables, firmware errors, internal hardware failure, or network connectivity issues.    
 
 
 <ins>Fixes:</ins> 
@@ -27,7 +27,7 @@ Possible Causes or Root Issues: Power Issues, faulty cables, firmware errors, in
 
 <h2>🧼Printer Outputting Smeared, Blurry, or Smudged Text🧼</h2>
 
-Possible Causes or Root Issues: Dirty printer heads, incorrect paper type, or ink issues.
+**Possible Causes or Root Issues:** Dirty printer heads, incorrect paper type, or ink issues.
 
 
 <ins>Fixes:</ins> 
@@ -46,7 +46,7 @@ Possible Causes or Root Issues: Dirty printer heads, incorrect paper type, or in
 
 <h2>🌫️Printer Producing Faded or Poor Print Quality🌫️</h2>
 
-Possible Causes or Root Issues: Low toner/ink, clogged nozzles, or incorrect print settings.
+**Possible Causes or Root Issues:** Low toner/ink, clogged nozzles, or incorrect print settings.
 
 
 <ins>Fixes:</ins> 
@@ -61,7 +61,7 @@ Possible Causes or Root Issues: Low toner/ink, clogged nozzles, or incorrect pri
 
  <h2>🔡Printer Printing Garbled or Scrambled Text🔡</h2>
 
-Possible Causes or Root Issues: Driver issues, incorrect printer model selection, or corrupted data
+**Possible Causes or Root Issues:** Driver issues, incorrect printer model selection, or corrupted data
 
 
 <ins>Fixes:</ins> 
@@ -78,7 +78,7 @@ Possible Causes or Root Issues: Driver issues, incorrect printer model selection
 
  <h2>📄Printer paper Jams📄</h2>
 
-Possible Causes or Root Issues: Obstructed rollers, misaligned paper, paper scraps, or poor paper quality
+**Possible Causes or Root Issues:** Obstructed rollers, misaligned paper, paper scraps, or poor paper quality
 
 <ins>Fixes:</ins> 
 
