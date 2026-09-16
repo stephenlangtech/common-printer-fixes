@@ -1,5 +1,7 @@
 # Common Printer Fixes and Troubleshooting Guides
-
+<p align="center">
+<img src="https://blog.copylite.com/wp-content/uploads/2024/07/illustration-of-leaking-printer-vector.jpg" jsaction="" class="sFlh5c FyHeAf YkEcKe" style="max-width: 980px; width: 169px; height: 169px; margin: 6.6px 0px;" alt="Fixing the Most Common Printer Problems - Copylite Blog" jsname="kn3ccd">
+</p>
 
 <h1>Real World Printer Issues and How to Resolve Them</h1>
 This is a quick and simple repository to reference whenever you come across printer issues in the real world. It will cover the most common issues you may encounter in classrooms, offices, workplaces, etc.
